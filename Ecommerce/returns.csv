@@ -1,0 +1,1001 @@
+Return ID,Order ID,Return Date,Return Reason,Product Condition,Refund Amount
+1,948,11/22/2023,Changed mind,Damaged,$84.61
+2,863,6/25/2023,Changed mind,New,$402.56
+3,952,12/31/2022,Defective,New,$467.70
+4,359,7/17/2024,Wrong size,Used,$38.57
+5,916,10/22/2022,Changed mind,Used,$13.69
+6,545,9/26/2020,Defective,Like new,$229.24
+7,595,2/3/2025,Wrong size,New,$260.18
+8,283,12/4/2021,Wrong size,Used,$268.49
+9,176,7/10/2021,Wrong size,New,$374.76
+10,710,6/22/2022,Damaged during shipping,Used,$135.30
+11,192,8/2/2020,Changed mind,New,$170.56
+12,783,10/19/2021,Changed mind,Damaged,$194.45
+13,520,12/26/2022,Defective,New,$383.21
+14,598,9/3/2021,Changed mind,New,$384.29
+15,971,9/17/2021,Defective,Used,$140.70
+16,716,3/6/2022,Wrong size,Like new,$433.57
+17,474,2/13/2020,Damaged during shipping,Like new,$379.63
+18,648,4/2/2021,Damaged during shipping,Damaged,$415.07
+19,824,7/13/2024,Wrong size,New,$172.63
+20,981,8/24/2021,Defective,New,$92.69
+21,99,11/6/2021,Defective,Damaged,$462.58
+22,752,11/18/2024,Defective,Used,$164.51
+23,486,2/2/2021,Changed mind,Used,$341.62
+24,283,3/5/2020,Defective,New,$350.98
+25,576,2/16/2020,Damaged during shipping,New,$425.73
+26,397,5/10/2022,Defective,Like new,$195.45
+27,588,6/2/2020,Damaged during shipping,New,$422.10
+28,905,7/11/2021,Changed mind,Used,$338.33
+29,883,9/1/2021,Defective,Used,$36.54
+30,300,10/16/2022,Defective,New,$47.85
+31,528,9/2/2020,Changed mind,New,$124.53
+32,358,10/5/2024,Wrong size,Used,$464.09
+33,96,11/6/2021,Defective,Like new,$324.63
+34,106,5/30/2024,Defective,Used,$389.22
+35,238,3/16/2024,Damaged during shipping,New,$197.99
+36,244,7/4/2024,Changed mind,Damaged,$78.90
+37,70,7/12/2024,Changed mind,Damaged,$451.65
+38,672,10/31/2023,Wrong size,New,$167.70
+39,58,3/19/2023,Defective,New,$348.90
+40,324,12/2/2024,Defective,Like new,$302.66
+41,103,12/15/2024,Damaged during shipping,Used,$290.14
+42,570,9/12/2024,Damaged during shipping,New,$246.58
+43,547,11/7/2023,Defective,New,$163.75
+44,457,12/14/2021,Changed mind,New,$226.67
+45,357,9/10/2020,Changed mind,Damaged,$153.30
+46,448,2/1/2022,Wrong size,Like new,$151.17
+47,510,6/25/2020,Wrong size,Like new,$356.00
+48,299,8/24/2022,Wrong size,New,$216.85
+49,857,2/16/2022,Wrong size,New,$268.29
+50,306,12/13/2022,Changed mind,New,$430.65
+51,140,12/2/2023,Damaged during shipping,Used,$197.73
+52,132,8/27/2021,Damaged during shipping,Like new,$321.20
+53,863,2/22/2021,Wrong size,Like new,$374.73
+54,251,3/17/2025,Changed mind,Damaged,$455.38
+55,458,4/1/2023,Wrong size,Like new,$49.83
+56,802,11/28/2023,Defective,Damaged,$213.64
+57,483,1/13/2024,Changed mind,Used,$141.37
+58,95,2/25/2025,Changed mind,Used,$296.56
+59,697,7/22/2023,Changed mind,Used,$454.44
+60,114,6/30/2021,Wrong size,Like new,$379.88
+61,526,12/30/2023,Wrong size,Used,$332.40
+62,971,8/24/2022,Damaged during shipping,New,$372.55
+63,295,11/26/2022,Wrong size,Like new,$321.01
+64,678,3/30/2021,Damaged during shipping,Damaged,$239.14
+65,12,2/16/2020,Changed mind,Used,$164.31
+66,937,6/21/2023,Wrong size,Used,$161.27
+67,980,1/27/2020,Changed mind,Damaged,$460.14
+68,328,7/4/2022,Defective,Used,$29.83
+69,931,11/18/2021,Changed mind,Damaged,$200.23
+70,197,9/21/2023,Wrong size,Damaged,$315.69
+71,729,12/10/2022,Changed mind,Damaged,$439.08
+72,350,1/17/2020,Wrong size,New,$420.77
+73,73,11/15/2021,Damaged during shipping,New,$267.66
+74,232,1/21/2025,Damaged during shipping,New,$282.93
+75,451,6/12/2022,Changed mind,Like new,$359.19
+76,677,7/16/2021,Defective,Used,$169.22
+77,799,9/15/2023,Wrong size,Used,$195.53
+78,599,5/1/2023,Defective,New,$46.49
+79,756,4/1/2022,Damaged during shipping,Like new,$253.87
+80,984,4/14/2023,Damaged during shipping,Damaged,$27.04
+81,144,12/10/2022,Damaged during shipping,Used,$287.38
+82,11,4/28/2023,Defective,Like new,$196.03
+83,596,3/1/2024,Wrong size,Like new,$357.69
+84,950,8/15/2020,Defective,Like new,$55.69
+85,3,12/24/2021,Wrong size,Used,$260.04
+86,101,9/7/2023,Wrong size,Used,$148.71
+87,696,6/13/2023,Damaged during shipping,New,$322.60
+88,277,10/11/2020,Changed mind,New,$79.40
+89,999,1/5/2025,Wrong size,Like new,$61.10
+90,705,6/19/2020,Defective,Used,$488.89
+91,508,5/1/2024,Damaged during shipping,New,$311.98
+92,165,5/11/2020,Changed mind,Damaged,$368.83
+93,865,3/12/2022,Wrong size,Damaged,$455.15
+94,369,3/26/2025,Damaged during shipping,Like new,$118.42
+95,544,11/12/2023,Changed mind,Damaged,$209.36
+96,812,2/27/2020,Changed mind,Used,$429.07
+97,147,10/15/2020,Defective,Used,$454.92
+98,978,5/8/2023,Wrong size,Used,$51.75
+99,663,9/2/2022,Changed mind,New,$277.39
+100,884,10/6/2023,Damaged during shipping,New,$248.97
+101,863,3/10/2023,Defective,Like new,$152.19
+102,746,10/29/2022,Changed mind,Used,$131.16
+103,333,3/9/2021,Defective,Damaged,$153.14
+104,83,2/3/2021,Changed mind,Damaged,$209.95
+105,83,4/18/2024,Changed mind,Damaged,$369.72
+106,311,12/26/2020,Wrong size,Like new,$168.92
+107,619,8/6/2021,Defective,New,$150.91
+108,338,10/21/2023,Wrong size,Like new,$40.67
+109,714,2/6/2024,Changed mind,Like new,$364.71
+110,771,7/22/2020,Wrong size,Used,$101.52
+111,17,2/20/2022,Wrong size,Used,$322.15
+112,7,2/23/2024,Damaged during shipping,New,$459.75
+113,862,10/27/2024,Defective,Like new,$317.84
+114,662,8/8/2024,Wrong size,Damaged,$316.22
+115,676,12/20/2020,Wrong size,Used,$70.85
+116,499,3/11/2025,Defective,Damaged,$223.12
+117,864,3/8/2024,Defective,Used,$129.76
+118,878,6/26/2023,Defective,New,$234.76
+119,899,12/14/2024,Defective,Like new,$186.26
+120,619,2/4/2020,Damaged during shipping,Like new,$408.18
+121,905,4/18/2020,Changed mind,Damaged,$373.70
+122,400,7/15/2023,Changed mind,Like new,$496.52
+123,76,12/26/2020,Defective,New,$207.93
+124,88,8/1/2024,Defective,Like new,$218.12
+125,471,2/28/2022,Changed mind,Used,$31.06
+126,92,3/11/2020,Defective,Damaged,$77.16
+127,193,6/24/2024,Damaged during shipping,Used,$65.71
+128,833,4/23/2021,Wrong size,Like new,$319.32
+129,829,5/20/2023,Changed mind,Like new,$493.26
+130,104,10/13/2020,Damaged during shipping,Used,$290.09
+131,912,3/18/2023,Changed mind,Damaged,$293.00
+132,925,4/14/2022,Changed mind,Like new,$30.00
+133,365,12/4/2020,Defective,New,$478.55
+134,498,8/1/2022,Wrong size,Used,$181.75
+135,416,6/14/2024,Defective,Used,$117.66
+136,23,10/24/2023,Changed mind,Used,$346.15
+137,403,2/12/2022,Damaged during shipping,Used,$396.95
+138,201,6/8/2020,Changed mind,Used,$371.07
+139,650,2/5/2022,Defective,Used,$363.16
+140,469,8/24/2022,Wrong size,New,$141.06
+141,343,8/13/2022,Damaged during shipping,Like new,$470.02
+142,617,1/29/2024,Changed mind,Like new,$371.95
+143,232,8/5/2024,Wrong size,New,$277.96
+144,851,12/3/2024,Defective,New,$106.69
+145,511,5/17/2023,Changed mind,Damaged,$144.15
+146,547,2/1/2025,Damaged during shipping,Like new,$43.17
+147,999,5/18/2024,Defective,New,$188.73
+148,693,1/8/2021,Damaged during shipping,New,$96.27
+149,845,3/10/2023,Defective,New,$193.87
+150,634,5/19/2023,Wrong size,New,$333.66
+151,807,11/6/2021,Defective,Damaged,$168.17
+152,646,10/28/2021,Defective,Like new,$462.87
+153,371,6/5/2024,Damaged during shipping,Damaged,$83.05
+154,148,7/22/2021,Damaged during shipping,Used,$71.83
+155,284,11/15/2022,Defective,Like new,$127.29
+156,801,12/1/2021,Changed mind,New,$79.69
+157,262,5/31/2023,Defective,Used,$286.71
+158,901,5/7/2021,Wrong size,Damaged,$368.69
+159,81,3/3/2021,Defective,New,$431.39
+160,902,12/4/2022,Changed mind,New,$169.94
+161,324,8/20/2023,Changed mind,New,$166.26
+162,834,3/18/2021,Changed mind,Damaged,$228.97
+163,356,5/2/2020,Defective,Used,$95.35
+164,725,7/19/2020,Defective,New,$11.54
+165,801,12/28/2023,Wrong size,Like new,$365.42
+166,93,6/13/2021,Damaged during shipping,Damaged,$285.54
+167,257,8/27/2023,Damaged during shipping,Like new,$414.35
+168,18,6/26/2024,Defective,Damaged,$182.39
+169,60,2/4/2022,Changed mind,Used,$309.03
+170,597,1/8/2022,Defective,New,$22.77
+171,732,4/4/2020,Changed mind,Like new,$77.35
+172,591,6/16/2023,Changed mind,Used,$418.09
+173,371,1/27/2020,Defective,Used,$499.83
+174,962,11/14/2023,Damaged during shipping,Like new,$351.81
+175,369,11/19/2022,Changed mind,Used,$154.68
+176,534,9/2/2021,Damaged during shipping,Damaged,$105.82
+177,26,11/4/2024,Defective,Like new,$334.07
+178,9,8/1/2024,Defective,Like new,$182.69
+179,726,6/26/2024,Changed mind,New,$393.17
+180,983,12/31/2021,Changed mind,Used,$234.63
+181,646,10/9/2022,Changed mind,Used,$171.01
+182,293,2/27/2022,Damaged during shipping,Damaged,$196.13
+183,101,11/3/2024,Damaged during shipping,Like new,$466.14
+184,533,11/24/2023,Damaged during shipping,Like new,$380.34
+185,126,10/18/2022,Wrong size,Damaged,$415.12
+186,922,11/1/2023,Damaged during shipping,Used,$444.79
+187,688,6/24/2023,Defective,New,$320.35
+188,832,8/7/2021,Defective,Used,$33.89
+189,189,7/29/2020,Wrong size,Used,$27.23
+190,761,4/11/2022,Damaged during shipping,Damaged,$346.84
+191,775,2/18/2022,Damaged during shipping,Used,$325.76
+192,609,10/9/2020,Defective,Like new,$212.42
+193,543,11/28/2024,Changed mind,New,$145.51
+194,752,3/25/2021,Changed mind,Like new,$89.51
+195,691,2/21/2025,Defective,Like new,$102.68
+196,919,2/16/2025,Damaged during shipping,Like new,$247.33
+197,852,10/28/2023,Wrong size,New,$273.40
+198,290,4/28/2023,Wrong size,Like new,$57.69
+199,743,8/2/2024,Damaged during shipping,Damaged,$299.58
+200,634,2/4/2020,Changed mind,New,$156.10
+201,990,4/5/2022,Defective,Like new,$98.38
+202,344,9/29/2022,Wrong size,New,$318.77
+203,555,2/26/2020,Changed mind,Damaged,$207.43
+204,148,9/17/2020,Changed mind,New,$56.68
+205,421,4/18/2023,Damaged during shipping,Used,$237.96
+206,916,9/22/2023,Changed mind,Like new,$135.56
+207,504,2/17/2024,Damaged during shipping,New,$77.62
+208,878,8/8/2024,Changed mind,Used,$271.34
+209,613,3/25/2023,Changed mind,New,$193.52
+210,231,2/3/2022,Damaged during shipping,New,$454.71
+211,961,7/25/2021,Wrong size,New,$467.99
+212,840,1/12/2024,Damaged during shipping,Like new,$433.28
+213,271,2/19/2025,Defective,Used,$449.84
+214,158,9/30/2024,Damaged during shipping,Damaged,$386.55
+215,664,2/26/2023,Wrong size,Like new,$373.39
+216,612,6/15/2021,Damaged during shipping,Used,$277.08
+217,649,2/13/2020,Changed mind,New,$238.21
+218,912,4/26/2024,Wrong size,Damaged,$84.59
+219,797,3/2/2023,Wrong size,Damaged,$359.04
+220,230,8/24/2021,Changed mind,Like new,$36.49
+221,814,1/29/2024,Changed mind,New,$302.14
+222,330,3/31/2020,Defective,Like new,$28.41
+223,350,4/5/2020,Defective,New,$12.91
+224,952,10/12/2024,Damaged during shipping,Damaged,$415.50
+225,155,1/17/2021,Changed mind,Like new,$354.80
+226,100,3/14/2020,Wrong size,New,$358.66
+227,25,2/13/2021,Changed mind,Like new,$103.23
+228,940,9/11/2020,Damaged during shipping,New,$139.27
+229,699,4/22/2020,Damaged during shipping,Used,$398.65
+230,976,9/5/2022,Damaged during shipping,Like new,$340.06
+231,875,1/21/2021,Damaged during shipping,Damaged,$216.95
+232,60,1/4/2020,Damaged during shipping,Used,$496.57
+233,423,8/9/2021,Changed mind,Like new,$499.77
+234,232,11/20/2023,Changed mind,Damaged,$11.98
+235,971,11/18/2020,Defective,New,$319.29
+236,535,7/9/2024,Defective,Damaged,$473.67
+237,785,2/22/2024,Defective,Used,$365.73
+238,297,2/21/2021,Wrong size,Used,$447.52
+239,202,2/5/2020,Changed mind,Damaged,$393.31
+240,857,7/20/2024,Changed mind,Used,$474.77
+241,935,10/14/2021,Changed mind,Damaged,$141.06
+242,492,2/9/2022,Damaged during shipping,Like new,$488.40
+243,226,7/18/2024,Damaged during shipping,Like new,$98.97
+244,986,6/7/2024,Changed mind,Used,$384.17
+245,71,10/7/2024,Defective,Used,$36.49
+246,22,6/9/2024,Wrong size,Like new,$333.51
+247,764,3/6/2020,Defective,Damaged,$35.88
+248,238,7/18/2020,Changed mind,Damaged,$355.47
+249,913,12/2/2023,Damaged during shipping,Used,$54.16
+250,933,4/27/2022,Defective,Damaged,$157.13
+251,316,8/5/2021,Defective,New,$316.11
+252,552,3/25/2025,Wrong size,Like new,$301.73
+253,891,11/27/2024,Damaged during shipping,Like new,$489.18
+254,735,9/26/2024,Damaged during shipping,New,$61.38
+255,461,3/29/2024,Defective,New,$72.24
+256,828,11/24/2022,Changed mind,Used,$22.51
+257,683,7/12/2023,Changed mind,New,$161.69
+258,829,10/6/2020,Wrong size,Damaged,$489.14
+259,541,5/3/2020,Damaged during shipping,Damaged,$199.68
+260,858,12/30/2020,Defective,Used,$303.76
+261,970,5/13/2021,Changed mind,Like new,$499.05
+262,443,1/23/2024,Wrong size,Like new,$147.28
+263,474,2/1/2024,Wrong size,New,$397.01
+264,562,6/24/2020,Damaged during shipping,New,$200.41
+265,709,2/21/2025,Defective,New,$480.35
+266,500,5/6/2021,Wrong size,Used,$202.75
+267,370,10/13/2022,Defective,Damaged,$18.09
+268,782,2/7/2022,Damaged during shipping,Used,$103.69
+269,383,8/22/2021,Changed mind,Used,$171.08
+270,44,3/7/2024,Damaged during shipping,New,$417.41
+271,102,4/27/2021,Changed mind,Damaged,$162.30
+272,864,12/12/2022,Defective,New,$253.20
+273,712,9/9/2024,Defective,New,$352.27
+274,169,1/19/2022,Changed mind,Used,$40.54
+275,123,12/28/2024,Defective,Damaged,$478.14
+276,766,6/15/2024,Wrong size,Damaged,$167.47
+277,101,7/20/2022,Damaged during shipping,Like new,$78.39
+278,2,5/7/2020,Defective,Used,$307.16
+279,770,10/31/2022,Defective,Used,$181.69
+280,583,12/22/2020,Defective,New,$191.09
+281,566,2/19/2022,Damaged during shipping,Like new,$270.18
+282,39,2/21/2025,Wrong size,Like new,$431.65
+283,828,1/21/2020,Wrong size,Like new,$27.42
+284,778,3/19/2020,Changed mind,Like new,$494.03
+285,254,4/26/2023,Damaged during shipping,Damaged,$333.67
+286,476,11/24/2020,Damaged during shipping,Used,$205.14
+287,954,5/16/2022,Defective,New,$322.27
+288,498,2/13/2021,Defective,Used,$68.41
+289,639,12/13/2023,Damaged during shipping,Damaged,$102.91
+290,524,2/12/2022,Changed mind,Used,$302.51
+291,739,6/1/2021,Wrong size,Like new,$482.30
+292,786,3/15/2024,Defective,Damaged,$40.94
+293,961,5/23/2023,Changed mind,Used,$107.45
+294,601,3/25/2025,Wrong size,Used,$478.97
+295,352,7/28/2023,Wrong size,Used,$53.69
+296,874,12/30/2020,Defective,Used,$129.72
+297,627,2/6/2025,Damaged during shipping,Used,$305.02
+298,846,9/8/2024,Changed mind,Damaged,$466.42
+299,530,5/19/2024,Defective,New,$247.49
+300,282,3/1/2020,Wrong size,Damaged,$55.64
+301,791,7/23/2023,Changed mind,Like new,$474.12
+302,818,11/11/2020,Wrong size,New,$369.45
+303,485,7/3/2020,Wrong size,Like new,$221.89
+304,643,12/24/2024,Damaged during shipping,Like new,$376.70
+305,242,1/28/2024,Changed mind,Used,$300.13
+306,558,7/29/2023,Wrong size,Used,$351.70
+307,132,3/22/2025,Wrong size,New,$390.50
+308,814,12/9/2022,Wrong size,Like new,$421.39
+309,585,11/17/2021,Damaged during shipping,Damaged,$410.01
+310,718,6/18/2020,Defective,Damaged,$98.34
+311,918,7/18/2021,Wrong size,New,$269.04
+312,460,1/21/2023,Changed mind,Like new,$329.63
+313,853,10/30/2021,Defective,New,$210.91
+314,518,7/12/2020,Changed mind,Like new,$279.05
+315,288,11/20/2024,Wrong size,Damaged,$71.08
+316,231,8/23/2020,Damaged during shipping,Like new,$19.11
+317,185,11/23/2021,Changed mind,Like new,$253.52
+318,304,6/21/2024,Damaged during shipping,New,$492.83
+319,811,8/15/2024,Damaged during shipping,New,$191.29
+320,706,5/12/2021,Damaged during shipping,New,$448.03
+321,710,6/9/2020,Wrong size,Used,$445.99
+322,492,12/13/2020,Defective,Used,$18.49
+323,223,2/24/2020,Damaged during shipping,New,$82.30
+324,480,8/4/2023,Wrong size,New,$465.58
+325,451,10/24/2022,Damaged during shipping,Like new,$393.13
+326,74,9/24/2021,Wrong size,Like new,$53.21
+327,677,9/20/2023,Damaged during shipping,New,$116.67
+328,763,1/27/2022,Damaged during shipping,New,$206.85
+329,138,7/15/2022,Damaged during shipping,Used,$329.74
+330,578,1/15/2025,Wrong size,Used,$354.41
+331,593,1/4/2024,Changed mind,Used,$165.52
+332,925,8/22/2024,Wrong size,Damaged,$89.87
+333,804,4/17/2023,Defective,New,$92.12
+334,118,11/17/2023,Wrong size,New,$402.49
+335,897,6/15/2024,Changed mind,Used,$390.79
+336,67,8/19/2020,Damaged during shipping,Used,$306.42
+337,500,4/12/2021,Wrong size,Used,$147.76
+338,78,3/9/2022,Damaged during shipping,Damaged,$168.05
+339,441,7/7/2024,Damaged during shipping,Like new,$446.94
+340,734,11/24/2022,Damaged during shipping,New,$407.62
+341,947,4/21/2022,Wrong size,Damaged,$48.92
+342,309,11/29/2024,Wrong size,New,$45.31
+343,640,11/8/2024,Wrong size,Used,$85.33
+344,670,2/17/2024,Damaged during shipping,Like new,$191.36
+345,262,10/11/2023,Wrong size,Used,$223.43
+346,834,12/16/2020,Wrong size,Like new,$475.05
+347,498,4/8/2021,Damaged during shipping,Damaged,$384.57
+348,835,3/12/2023,Wrong size,New,$233.58
+349,752,9/29/2023,Changed mind,Damaged,$394.10
+350,672,11/6/2024,Damaged during shipping,Like new,$385.59
+351,181,4/4/2024,Changed mind,Used,$263.13
+352,118,2/7/2022,Changed mind,New,$498.73
+353,595,12/9/2021,Wrong size,Damaged,$159.74
+354,271,3/13/2020,Changed mind,Like new,$102.42
+355,355,4/11/2023,Defective,Used,$62.90
+356,904,4/23/2021,Changed mind,Used,$493.05
+357,784,7/4/2022,Damaged during shipping,New,$100.73
+358,994,4/2/2021,Defective,Damaged,$86.66
+359,153,3/1/2021,Damaged during shipping,Like new,$171.17
+360,23,3/16/2023,Defective,Damaged,$283.11
+361,647,3/2/2021,Wrong size,Used,$351.46
+362,887,5/15/2021,Damaged during shipping,Damaged,$480.48
+363,945,10/17/2022,Damaged during shipping,New,$129.25
+364,19,12/18/2024,Damaged during shipping,New,$99.23
+365,730,10/10/2024,Changed mind,Used,$265.34
+366,950,1/31/2023,Damaged during shipping,Like new,$339.88
+367,580,11/29/2020,Changed mind,Damaged,$467.95
+368,291,3/12/2023,Wrong size,Damaged,$48.55
+369,109,4/24/2020,Wrong size,Used,$175.86
+370,500,4/26/2020,Wrong size,Like new,$304.07
+371,9,4/2/2023,Wrong size,Damaged,$363.99
+372,355,12/20/2023,Wrong size,Damaged,$366.86
+373,936,8/28/2021,Wrong size,New,$114.88
+374,623,9/25/2022,Wrong size,Damaged,$39.23
+375,797,6/18/2023,Damaged during shipping,Used,$486.11
+376,382,9/15/2022,Wrong size,New,$60.19
+377,369,5/19/2024,Wrong size,Used,$19.50
+378,450,11/25/2022,Damaged during shipping,Used,$321.27
+379,337,11/1/2024,Damaged during shipping,New,$297.14
+380,923,4/20/2022,Damaged during shipping,Used,$25.28
+381,206,7/6/2020,Wrong size,Like new,$249.12
+382,972,12/16/2023,Wrong size,Like new,$356.15
+383,417,12/6/2020,Wrong size,Used,$221.84
+384,21,4/25/2024,Wrong size,Used,$437.15
+385,463,5/7/2023,Wrong size,New,$328.42
+386,332,5/27/2024,Damaged during shipping,New,$343.29
+387,615,2/9/2025,Damaged during shipping,Damaged,$457.92
+388,724,12/12/2020,Wrong size,Like new,$428.20
+389,851,4/3/2024,Wrong size,New,$59.13
+390,926,1/30/2021,Damaged during shipping,New,$198.01
+391,114,7/7/2021,Changed mind,Used,$153.45
+392,923,9/13/2020,Damaged during shipping,Damaged,$440.33
+393,257,12/7/2023,Damaged during shipping,Like new,$16.63
+394,506,7/25/2020,Damaged during shipping,Damaged,$466.66
+395,699,5/30/2023,Defective,Damaged,$303.02
+396,4,7/3/2022,Changed mind,Used,$54.90
+397,612,9/12/2021,Defective,Damaged,$391.58
+398,958,1/14/2024,Defective,Damaged,$125.40
+399,58,1/13/2025,Defective,Damaged,$280.76
+400,300,8/30/2021,Damaged during shipping,New,$350.14
+401,172,5/16/2021,Wrong size,Used,$26.58
+402,502,3/4/2025,Damaged during shipping,Like new,$242.22
+403,222,4/6/2023,Wrong size,Like new,$16.21
+404,366,12/11/2021,Wrong size,Damaged,$142.16
+405,539,10/2/2023,Wrong size,New,$409.30
+406,180,5/8/2024,Defective,Damaged,$157.76
+407,374,1/3/2023,Changed mind,Like new,$436.63
+408,803,2/15/2024,Damaged during shipping,Used,$203.38
+409,158,2/8/2021,Damaged during shipping,Used,$161.56
+410,443,12/24/2024,Damaged during shipping,Damaged,$488.78
+411,814,11/12/2022,Changed mind,Like new,$136.84
+412,369,10/28/2021,Defective,New,$455.67
+413,503,11/27/2024,Changed mind,New,$493.56
+414,853,12/11/2020,Changed mind,Damaged,$271.64
+415,921,6/29/2022,Wrong size,Like new,$308.74
+416,409,6/3/2023,Changed mind,Like new,$23.60
+417,468,8/11/2021,Wrong size,New,$387.92
+418,374,9/3/2022,Changed mind,New,$431.01
+419,915,11/8/2022,Defective,New,$363.55
+420,310,1/22/2025,Wrong size,Like new,$64.23
+421,765,11/10/2020,Wrong size,Like new,$200.12
+422,195,8/13/2021,Damaged during shipping,Used,$233.03
+423,677,5/19/2021,Wrong size,New,$296.02
+424,924,5/22/2024,Wrong size,Like new,$452.68
+425,653,1/21/2025,Changed mind,New,$153.28
+426,193,10/26/2021,Defective,Damaged,$56.37
+427,655,11/7/2023,Wrong size,Used,$344.01
+428,789,12/7/2024,Wrong size,New,$212.34
+429,963,7/29/2021,Defective,Used,$165.70
+430,7,5/7/2022,Defective,Used,$99.58
+431,974,8/14/2023,Damaged during shipping,New,$301.84
+432,618,10/7/2023,Damaged during shipping,Damaged,$387.15
+433,189,3/16/2024,Changed mind,Like new,$264.68
+434,965,4/18/2022,Changed mind,Used,$43.95
+435,1000,2/21/2020,Defective,Used,$107.73
+436,237,9/23/2022,Defective,Like new,$306.89
+437,651,10/5/2021,Changed mind,Damaged,$140.55
+438,434,11/2/2022,Damaged during shipping,Damaged,$293.87
+439,603,11/7/2023,Wrong size,New,$50.06
+440,132,7/16/2022,Damaged during shipping,Damaged,$312.54
+441,261,10/14/2021,Wrong size,Like new,$396.49
+442,389,1/21/2025,Changed mind,Like new,$429.94
+443,769,2/11/2023,Changed mind,Used,$238.90
+444,773,6/2/2020,Wrong size,Like new,$476.07
+445,798,5/3/2024,Wrong size,Damaged,$182.40
+446,753,4/27/2021,Damaged during shipping,Used,$356.54
+447,12,7/12/2022,Changed mind,Damaged,$45.21
+448,20,11/16/2021,Wrong size,Used,$266.82
+449,164,10/21/2020,Damaged during shipping,Like new,$78.57
+450,159,11/19/2024,Damaged during shipping,Like new,$339.19
+451,299,5/26/2021,Wrong size,New,$79.22
+452,340,6/24/2021,Damaged during shipping,Like new,$417.67
+453,974,7/4/2022,Wrong size,Used,$250.18
+454,848,6/6/2020,Changed mind,Used,$295.31
+455,794,3/15/2021,Changed mind,Used,$427.41
+456,281,11/21/2021,Damaged during shipping,Damaged,$488.99
+457,970,6/10/2020,Damaged during shipping,New,$165.36
+458,405,12/28/2020,Changed mind,Like new,$496.37
+459,514,9/3/2024,Wrong size,Used,$469.39
+460,482,3/5/2023,Damaged during shipping,Damaged,$422.64
+461,263,10/1/2020,Defective,Used,$17.47
+462,323,9/18/2020,Defective,Like new,$241.86
+463,445,1/23/2021,Wrong size,Damaged,$451.85
+464,809,3/18/2024,Wrong size,Like new,$183.63
+465,213,8/26/2024,Changed mind,Damaged,$244.03
+466,487,1/10/2020,Damaged during shipping,Like new,$248.26
+467,490,7/26/2020,Damaged during shipping,Used,$201.36
+468,226,1/26/2022,Damaged during shipping,Like new,$23.72
+469,812,2/10/2021,Damaged during shipping,New,$382.91
+470,721,2/26/2022,Defective,Like new,$129.68
+471,871,10/24/2020,Wrong size,Damaged,$233.67
+472,607,6/27/2020,Changed mind,New,$456.83
+473,344,2/19/2024,Defective,Like new,$483.77
+474,262,5/24/2020,Defective,New,$81.48
+475,559,3/25/2021,Changed mind,Like new,$194.21
+476,842,4/23/2021,Changed mind,Damaged,$21.59
+477,206,9/19/2023,Defective,New,$151.83
+478,437,12/23/2020,Wrong size,Like new,$280.21
+479,581,4/25/2022,Changed mind,New,$431.95
+480,633,10/8/2021,Wrong size,Damaged,$146.58
+481,735,5/16/2024,Defective,Used,$113.72
+482,63,6/29/2024,Defective,New,$82.69
+483,359,8/18/2024,Damaged during shipping,Damaged,$295.88
+484,820,9/3/2023,Damaged during shipping,Like new,$13.16
+485,771,6/20/2024,Changed mind,New,$270.88
+486,575,5/18/2020,Wrong size,Damaged,$164.91
+487,406,6/13/2024,Defective,Like new,$391.43
+488,25,6/21/2022,Changed mind,New,$284.88
+489,213,1/31/2023,Defective,Used,$14.02
+490,685,3/25/2025,Wrong size,New,$498.21
+491,86,3/25/2022,Damaged during shipping,Like new,$451.01
+492,882,6/10/2024,Defective,Damaged,$210.68
+493,725,12/19/2024,Wrong size,Damaged,$455.45
+494,164,11/27/2022,Damaged during shipping,New,$324.28
+495,269,3/16/2021,Defective,Like new,$151.12
+496,531,1/16/2024,Damaged during shipping,New,$257.32
+497,326,3/8/2022,Damaged during shipping,Used,$35.49
+498,37,4/3/2020,Wrong size,Damaged,$370.03
+499,612,3/7/2022,Defective,Used,$26.45
+500,641,6/15/2022,Wrong size,Used,$65.24
+501,602,11/29/2024,Damaged during shipping,New,$204.22
+502,385,11/25/2023,Damaged during shipping,Like new,$121.73
+503,205,2/26/2025,Changed mind,Damaged,$448.08
+504,354,5/30/2024,Damaged during shipping,Like new,$90.97
+505,863,7/12/2024,Defective,New,$380.27
+506,21,2/12/2020,Defective,Damaged,$217.93
+507,432,7/7/2021,Defective,Used,$345.55
+508,631,1/23/2023,Wrong size,Damaged,$342.76
+509,212,6/13/2023,Changed mind,Used,$477.94
+510,388,9/11/2020,Wrong size,Like new,$313.58
+511,624,11/19/2023,Damaged during shipping,Like new,$371.98
+512,217,6/20/2023,Changed mind,Like new,$247.48
+513,240,8/15/2021,Wrong size,Like new,$459.27
+514,485,7/14/2024,Defective,Like new,$492.64
+515,474,12/18/2021,Wrong size,Like new,$39.82
+516,239,4/14/2023,Defective,Like new,$206.51
+517,966,6/27/2024,Wrong size,New,$24.99
+518,74,11/26/2021,Damaged during shipping,New,$139.19
+519,607,7/11/2021,Wrong size,New,$450.56
+520,269,8/17/2021,Defective,Used,$200.41
+521,958,1/10/2022,Changed mind,New,$210.64
+522,777,5/1/2022,Damaged during shipping,Damaged,$279.65
+523,858,1/31/2024,Damaged during shipping,Used,$293.93
+524,468,8/15/2021,Changed mind,New,$244.04
+525,268,11/19/2020,Damaged during shipping,New,$450.20
+526,477,12/26/2023,Defective,Like new,$444.72
+527,609,12/5/2023,Wrong size,Like new,$128.74
+528,586,12/17/2021,Wrong size,New,$405.75
+529,783,10/30/2023,Defective,Used,$349.00
+530,659,5/2/2023,Damaged during shipping,Used,$347.69
+531,869,7/20/2022,Wrong size,Like new,$89.26
+532,275,1/7/2023,Damaged during shipping,New,$291.25
+533,560,8/9/2024,Changed mind,Like new,$325.09
+534,629,1/10/2023,Wrong size,Damaged,$196.41
+535,102,10/8/2022,Wrong size,Damaged,$283.41
+536,846,4/3/2024,Changed mind,Damaged,$351.27
+537,61,1/21/2024,Wrong size,Used,$232.18
+538,227,6/20/2021,Damaged during shipping,Like new,$442.93
+539,167,12/11/2020,Changed mind,Damaged,$272.95
+540,594,10/25/2024,Wrong size,Like new,$80.62
+541,488,7/19/2024,Wrong size,Used,$296.51
+542,399,11/23/2023,Wrong size,Like new,$342.78
+543,69,8/30/2021,Defective,Like new,$446.02
+544,220,10/20/2022,Defective,Like new,$99.80
+545,740,5/16/2023,Damaged during shipping,New,$262.84
+546,316,2/22/2024,Damaged during shipping,Like new,$215.49
+547,348,3/12/2025,Wrong size,Like new,$337.25
+548,14,3/16/2025,Defective,Like new,$215.32
+549,648,2/15/2025,Wrong size,New,$497.84
+550,816,10/23/2024,Changed mind,Like new,$243.88
+551,332,1/25/2020,Changed mind,New,$486.91
+552,341,3/25/2022,Damaged during shipping,Like new,$65.34
+553,355,12/21/2021,Changed mind,Used,$413.33
+554,458,9/15/2020,Defective,Like new,$240.68
+555,421,6/12/2023,Damaged during shipping,Used,$134.23
+556,856,10/24/2021,Damaged during shipping,Like new,$387.21
+557,733,2/14/2021,Defective,New,$122.74
+558,328,5/10/2021,Damaged during shipping,Damaged,$309.77
+559,490,2/12/2020,Damaged during shipping,Used,$325.87
+560,472,4/10/2020,Wrong size,Like new,$243.58
+561,560,4/2/2021,Damaged during shipping,Like new,$356.44
+562,624,5/1/2021,Damaged during shipping,New,$144.29
+563,424,4/1/2020,Damaged during shipping,New,$386.65
+564,858,5/25/2024,Damaged during shipping,Used,$14.39
+565,481,5/1/2023,Defective,New,$127.30
+566,224,5/17/2022,Damaged during shipping,Damaged,$125.01
+567,70,3/25/2021,Changed mind,Used,$342.65
+568,609,6/24/2024,Damaged during shipping,Damaged,$217.19
+569,469,8/19/2021,Defective,New,$494.20
+570,743,9/11/2024,Wrong size,Like new,$216.71
+571,553,3/2/2024,Damaged during shipping,Damaged,$484.25
+572,352,10/25/2022,Damaged during shipping,Like new,$479.60
+573,431,11/3/2020,Wrong size,Like new,$307.13
+574,636,1/7/2024,Wrong size,New,$162.41
+575,11,11/4/2020,Defective,Used,$129.09
+576,902,4/1/2024,Defective,Used,$181.40
+577,582,7/10/2020,Wrong size,Used,$214.32
+578,977,11/15/2022,Wrong size,Damaged,$100.65
+579,919,10/22/2021,Defective,Used,$194.24
+580,619,4/16/2023,Wrong size,Damaged,$212.03
+581,996,4/29/2024,Changed mind,New,$175.95
+582,864,3/28/2020,Wrong size,Damaged,$51.96
+583,506,11/1/2020,Damaged during shipping,New,$173.88
+584,708,2/14/2025,Defective,New,$451.60
+585,219,7/9/2023,Damaged during shipping,New,$398.53
+586,545,7/10/2021,Damaged during shipping,New,$254.94
+587,992,2/27/2022,Changed mind,Damaged,$325.32
+588,698,2/13/2024,Wrong size,Damaged,$173.69
+589,907,12/7/2020,Damaged during shipping,Used,$85.80
+590,115,4/23/2022,Wrong size,Used,$477.09
+591,221,2/17/2020,Damaged during shipping,Damaged,$315.42
+592,617,3/2/2025,Defective,Used,$483.10
+593,520,7/2/2020,Wrong size,New,$190.31
+594,954,2/19/2023,Wrong size,Used,$235.10
+595,571,2/23/2022,Wrong size,Damaged,$403.38
+596,957,8/21/2021,Defective,Like new,$267.95
+597,581,5/10/2020,Damaged during shipping,Like new,$485.71
+598,458,5/12/2024,Changed mind,Used,$239.41
+599,783,9/15/2024,Wrong size,Used,$101.15
+600,363,3/6/2024,Changed mind,Damaged,$70.96
+601,724,6/24/2021,Damaged during shipping,Like new,$180.54
+602,193,7/23/2022,Defective,New,$312.12
+603,36,5/13/2023,Wrong size,Like new,$315.80
+604,594,12/15/2024,Wrong size,Used,$320.47
+605,716,11/3/2022,Changed mind,New,$252.12
+606,475,4/25/2023,Defective,Like new,$361.99
+607,748,6/23/2024,Defective,New,$260.65
+608,512,7/11/2023,Changed mind,New,$190.18
+609,729,6/11/2022,Damaged during shipping,Used,$347.41
+610,626,4/27/2020,Changed mind,Like new,$241.02
+611,239,1/23/2024,Wrong size,New,$171.16
+612,122,4/14/2023,Changed mind,Damaged,$108.87
+613,417,1/22/2020,Defective,Damaged,$224.02
+614,808,7/3/2023,Changed mind,Like new,$182.63
+615,124,11/13/2020,Defective,Like new,$465.10
+616,428,5/6/2020,Wrong size,Used,$279.83
+617,975,2/10/2022,Wrong size,New,$72.40
+618,555,1/10/2022,Damaged during shipping,Damaged,$139.39
+619,438,11/21/2024,Damaged during shipping,Used,$357.47
+620,493,10/21/2024,Changed mind,New,$310.69
+621,178,4/5/2021,Wrong size,Used,$274.25
+622,10,10/4/2024,Damaged during shipping,New,$440.21
+623,960,2/23/2024,Changed mind,Used,$418.93
+624,76,7/28/2022,Wrong size,New,$441.92
+625,94,2/1/2021,Changed mind,Damaged,$214.92
+626,853,5/26/2023,Wrong size,Damaged,$28.77
+627,549,2/5/2025,Changed mind,Damaged,$196.49
+628,405,3/18/2024,Damaged during shipping,Used,$64.36
+629,543,5/18/2022,Defective,Damaged,$324.05
+630,940,4/25/2020,Wrong size,Like new,$117.19
+631,747,2/19/2024,Damaged during shipping,Like new,$54.78
+632,503,6/1/2020,Changed mind,New,$490.85
+633,839,3/20/2023,Damaged during shipping,Like new,$32.72
+634,144,1/11/2024,Changed mind,New,$157.43
+635,640,2/17/2024,Changed mind,New,$426.72
+636,992,12/11/2022,Damaged during shipping,Like new,$213.61
+637,138,4/23/2024,Wrong size,Damaged,$255.29
+638,884,11/19/2020,Damaged during shipping,New,$475.81
+639,275,11/28/2021,Defective,Like new,$112.68
+640,956,9/18/2022,Changed mind,New,$100.56
+641,120,5/12/2021,Damaged during shipping,New,$247.38
+642,119,11/6/2021,Wrong size,Used,$429.81
+643,136,9/19/2022,Changed mind,Like new,$98.99
+644,105,4/7/2020,Wrong size,New,$213.38
+645,815,2/6/2025,Damaged during shipping,Used,$232.24
+646,745,3/20/2024,Wrong size,Used,$250.74
+647,670,12/28/2023,Defective,Used,$281.56
+648,478,5/14/2023,Wrong size,Used,$255.43
+649,160,4/29/2020,Changed mind,Used,$218.53
+650,662,10/21/2021,Damaged during shipping,Used,$497.90
+651,713,11/22/2021,Damaged during shipping,Used,$275.00
+652,442,5/18/2024,Wrong size,Damaged,$80.64
+653,739,4/29/2024,Wrong size,Used,$253.73
+654,747,11/29/2023,Changed mind,New,$11.05
+655,780,8/20/2024,Wrong size,Used,$12.58
+656,233,8/29/2021,Defective,Used,$187.21
+657,88,10/8/2024,Defective,Used,$127.84
+658,1000,8/9/2022,Damaged during shipping,Damaged,$203.23
+659,738,7/23/2023,Changed mind,New,$198.37
+660,384,9/15/2020,Wrong size,Damaged,$352.69
+661,301,9/23/2024,Wrong size,Like new,$409.44
+662,403,2/15/2023,Wrong size,Used,$341.91
+663,558,2/24/2021,Changed mind,Like new,$78.23
+664,424,7/12/2024,Changed mind,Like new,$92.45
+665,871,9/21/2024,Damaged during shipping,Damaged,$457.96
+666,406,9/3/2021,Wrong size,Like new,$174.28
+667,647,1/16/2023,Damaged during shipping,Like new,$307.50
+668,10,3/17/2022,Changed mind,Damaged,$494.37
+669,555,8/6/2021,Defective,Used,$96.48
+670,584,6/26/2020,Changed mind,Like new,$466.25
+671,471,4/28/2020,Defective,Like new,$138.23
+672,534,9/25/2021,Changed mind,New,$30.18
+673,12,1/7/2025,Damaged during shipping,Used,$274.32
+674,518,11/12/2022,Damaged during shipping,Used,$181.93
+675,332,11/15/2020,Defective,Used,$39.37
+676,666,8/23/2024,Wrong size,New,$42.25
+677,625,2/14/2022,Defective,New,$365.14
+678,614,8/8/2020,Wrong size,Damaged,$89.99
+679,535,3/30/2020,Defective,Used,$43.71
+680,756,9/13/2024,Damaged during shipping,Like new,$73.59
+681,513,2/14/2022,Defective,New,$310.87
+682,428,10/16/2023,Damaged during shipping,Damaged,$41.80
+683,820,6/26/2024,Damaged during shipping,New,$357.37
+684,726,8/17/2023,Wrong size,New,$345.12
+685,224,12/24/2022,Damaged during shipping,Used,$446.06
+686,899,9/22/2021,Defective,New,$97.25
+687,30,2/13/2025,Wrong size,Like new,$349.85
+688,781,1/24/2025,Changed mind,Like new,$324.16
+689,765,5/12/2020,Damaged during shipping,Damaged,$350.26
+690,640,6/18/2020,Changed mind,New,$199.93
+691,891,5/14/2022,Changed mind,Damaged,$462.95
+692,483,1/3/2025,Changed mind,New,$82.27
+693,858,6/3/2022,Defective,Damaged,$313.86
+694,955,4/2/2024,Changed mind,Used,$344.01
+695,464,5/7/2024,Defective,Damaged,$101.21
+696,214,1/5/2020,Defective,Like new,$131.78
+697,739,7/27/2022,Damaged during shipping,Used,$375.17
+698,267,2/20/2021,Wrong size,Used,$396.28
+699,453,7/26/2022,Defective,Damaged,$232.88
+700,14,7/31/2020,Wrong size,Damaged,$215.77
+701,192,3/23/2023,Changed mind,Like new,$481.67
+702,858,11/1/2024,Wrong size,Like new,$318.45
+703,180,12/8/2020,Damaged during shipping,New,$74.86
+704,281,11/7/2020,Damaged during shipping,Like new,$408.47
+705,413,7/19/2023,Changed mind,Damaged,$304.18
+706,82,7/5/2022,Changed mind,New,$363.80
+707,348,5/10/2021,Changed mind,Like new,$172.22
+708,885,9/30/2022,Wrong size,Like new,$444.38
+709,949,1/26/2025,Wrong size,New,$362.09
+710,907,2/15/2022,Defective,Damaged,$44.64
+711,524,10/4/2024,Changed mind,Damaged,$272.57
+712,460,2/25/2020,Defective,Like new,$219.04
+713,814,4/27/2024,Damaged during shipping,New,$289.83
+714,9,2/27/2024,Damaged during shipping,New,$28.02
+715,230,12/31/2024,Changed mind,Like new,$329.89
+716,77,3/27/2023,Wrong size,Used,$140.06
+717,766,4/16/2022,Wrong size,Damaged,$264.41
+718,274,11/17/2022,Defective,Used,$173.58
+719,986,11/27/2021,Changed mind,Used,$370.17
+720,731,5/27/2024,Damaged during shipping,New,$397.94
+721,500,12/19/2023,Defective,Used,$105.04
+722,610,5/14/2024,Damaged during shipping,Like new,$285.88
+723,766,3/2/2021,Changed mind,Damaged,$185.12
+724,718,3/5/2022,Changed mind,Damaged,$206.74
+725,399,1/6/2021,Wrong size,Damaged,$240.81
+726,769,1/30/2023,Changed mind,Used,$234.52
+727,497,12/28/2021,Defective,New,$478.70
+728,827,12/29/2020,Defective,New,$369.23
+729,305,6/2/2020,Wrong size,Damaged,$187.27
+730,904,7/17/2020,Defective,Used,$229.66
+731,944,2/25/2025,Damaged during shipping,Like new,$473.08
+732,429,4/27/2023,Wrong size,Damaged,$404.72
+733,744,3/29/2020,Damaged during shipping,Damaged,$102.23
+734,412,10/7/2023,Wrong size,Like new,$66.00
+735,828,3/2/2020,Wrong size,Like new,$25.37
+736,542,1/1/2024,Wrong size,Used,$458.10
+737,762,12/24/2024,Changed mind,Damaged,$152.91
+738,331,7/17/2020,Wrong size,New,$111.46
+739,829,2/2/2021,Changed mind,Used,$326.75
+740,420,9/21/2023,Wrong size,New,$417.56
+741,194,5/22/2023,Changed mind,New,$304.38
+742,77,6/9/2020,Damaged during shipping,Used,$367.98
+743,387,1/26/2020,Changed mind,Damaged,$399.13
+744,508,6/10/2021,Changed mind,Used,$184.25
+745,294,3/21/2025,Damaged during shipping,Damaged,$15.47
+746,94,3/23/2022,Changed mind,Like new,$440.65
+747,328,3/15/2023,Defective,Like new,$429.84
+748,147,4/26/2024,Defective,Used,$441.43
+749,53,1/9/2024,Wrong size,New,$426.19
+750,712,12/9/2021,Changed mind,New,$220.67
+751,809,2/20/2020,Wrong size,New,$233.95
+752,44,12/3/2023,Wrong size,Like new,$126.36
+753,976,3/22/2023,Wrong size,New,$62.19
+754,458,10/2/2022,Wrong size,Like new,$273.23
+755,789,5/30/2024,Changed mind,Damaged,$265.01
+756,884,10/8/2024,Defective,New,$306.14
+757,351,6/29/2021,Defective,Like new,$175.48
+758,823,3/20/2022,Defective,Damaged,$457.26
+759,581,7/25/2023,Defective,Damaged,$470.87
+760,938,10/25/2022,Defective,New,$301.34
+761,367,12/3/2023,Defective,Used,$183.51
+762,13,9/22/2023,Damaged during shipping,Like new,$90.12
+763,447,1/28/2024,Changed mind,Damaged,$229.09
+764,217,8/20/2023,Wrong size,Damaged,$56.34
+765,569,7/23/2023,Defective,Used,$406.21
+766,540,7/22/2021,Defective,Used,$412.05
+767,24,7/11/2023,Defective,Damaged,$495.28
+768,117,11/25/2020,Wrong size,Damaged,$95.71
+769,787,11/12/2022,Defective,Used,$259.77
+770,558,6/29/2024,Defective,Like new,$73.95
+771,282,2/3/2021,Changed mind,Used,$254.00
+772,500,9/16/2024,Changed mind,Damaged,$363.30
+773,441,12/11/2020,Changed mind,Damaged,$273.97
+774,699,5/18/2021,Defective,Used,$253.67
+775,351,11/27/2021,Changed mind,Like new,$358.72
+776,274,8/16/2024,Wrong size,Damaged,$468.26
+777,209,4/10/2021,Defective,Used,$12.31
+778,627,6/15/2023,Changed mind,Used,$371.48
+779,300,4/30/2024,Changed mind,Damaged,$49.53
+780,42,9/17/2024,Defective,Like new,$116.59
+781,373,11/6/2020,Changed mind,Used,$123.41
+782,802,5/26/2021,Damaged during shipping,New,$419.56
+783,62,4/10/2022,Damaged during shipping,Like new,$338.60
+784,445,11/3/2024,Defective,Damaged,$232.86
+785,182,4/15/2023,Changed mind,Damaged,$146.53
+786,315,5/19/2022,Changed mind,Damaged,$379.78
+787,657,3/1/2024,Damaged during shipping,Like new,$312.44
+788,105,3/8/2024,Defective,Used,$45.91
+789,315,11/7/2020,Defective,New,$176.79
+790,690,10/11/2021,Defective,Damaged,$431.73
+791,780,3/26/2023,Changed mind,Like new,$126.50
+792,852,11/24/2020,Changed mind,Damaged,$32.31
+793,234,9/19/2020,Changed mind,Damaged,$16.89
+794,619,10/19/2023,Defective,Like new,$340.43
+795,551,10/27/2021,Damaged during shipping,New,$35.96
+796,414,4/27/2020,Defective,New,$81.30
+797,579,2/21/2024,Wrong size,New,$399.06
+798,747,2/3/2025,Changed mind,Damaged,$66.93
+799,93,5/6/2021,Defective,Used,$277.58
+800,945,2/20/2025,Changed mind,Used,$215.62
+801,252,7/2/2024,Wrong size,Like new,$312.05
+802,626,1/5/2024,Defective,Like new,$448.40
+803,52,6/29/2023,Defective,Damaged,$400.42
+804,6,10/7/2023,Damaged during shipping,New,$302.46
+805,92,11/10/2024,Changed mind,New,$253.19
+806,343,6/18/2023,Defective,Like new,$329.67
+807,252,3/5/2020,Defective,Like new,$307.16
+808,614,1/28/2023,Defective,New,$232.45
+809,401,11/1/2023,Damaged during shipping,Like new,$160.26
+810,297,1/25/2023,Wrong size,Like new,$161.91
+811,436,6/14/2021,Changed mind,Used,$71.61
+812,543,8/27/2021,Changed mind,Damaged,$160.92
+813,830,5/23/2023,Wrong size,Used,$84.00
+814,311,8/19/2024,Defective,Damaged,$57.31
+815,69,6/26/2023,Wrong size,New,$121.52
+816,16,12/15/2023,Defective,Used,$492.52
+817,421,7/7/2022,Changed mind,Like new,$15.48
+818,48,12/13/2023,Damaged during shipping,Like new,$363.87
+819,290,4/3/2024,Wrong size,Like new,$185.19
+820,265,4/13/2023,Defective,New,$191.55
+821,266,2/18/2025,Damaged during shipping,New,$253.29
+822,57,7/22/2024,Changed mind,Damaged,$482.78
+823,958,6/19/2020,Wrong size,New,$469.28
+824,960,6/13/2024,Damaged during shipping,Damaged,$413.84
+825,539,11/17/2024,Defective,Damaged,$228.00
+826,195,4/3/2023,Wrong size,Used,$96.44
+827,800,1/29/2023,Changed mind,Used,$187.49
+828,285,4/18/2023,Wrong size,Like new,$271.46
+829,527,3/9/2023,Changed mind,Like new,$283.74
+830,988,8/29/2020,Damaged during shipping,Used,$72.01
+831,916,7/4/2024,Wrong size,Damaged,$19.19
+832,133,10/28/2020,Defective,Like new,$132.45
+833,237,5/15/2023,Damaged during shipping,Used,$383.53
+834,573,6/17/2023,Changed mind,Used,$29.86
+835,410,6/30/2023,Defective,New,$443.63
+836,398,7/13/2024,Changed mind,Used,$58.56
+837,581,8/12/2020,Damaged during shipping,Damaged,$424.26
+838,811,10/22/2024,Wrong size,New,$102.29
+839,712,10/10/2023,Wrong size,Damaged,$428.85
+840,600,9/2/2024,Changed mind,New,$136.05
+841,737,10/2/2024,Changed mind,Used,$322.18
+842,534,11/6/2023,Damaged during shipping,Damaged,$174.08
+843,499,2/20/2024,Damaged during shipping,Damaged,$417.37
+844,335,1/7/2021,Defective,Damaged,$24.62
+845,66,6/13/2020,Wrong size,Used,$417.58
+846,780,8/5/2021,Wrong size,Used,$472.51
+847,880,5/20/2021,Changed mind,Used,$403.10
+848,229,11/11/2021,Damaged during shipping,Used,$264.99
+849,314,8/21/2024,Wrong size,Like new,$82.91
+850,244,3/14/2021,Defective,Used,$466.30
+851,178,8/15/2022,Wrong size,Damaged,$489.50
+852,170,4/4/2022,Damaged during shipping,Used,$216.54
+853,275,12/26/2024,Wrong size,Used,$384.45
+854,885,3/12/2021,Damaged during shipping,Used,$211.73
+855,183,1/9/2020,Damaged during shipping,Used,$84.65
+856,693,2/8/2021,Damaged during shipping,Like new,$364.18
+857,572,11/10/2020,Defective,Like new,$277.75
+858,163,4/19/2020,Changed mind,Damaged,$132.75
+859,574,3/13/2025,Changed mind,Like new,$113.20
+860,523,12/28/2021,Wrong size,Used,$245.50
+861,156,6/24/2023,Wrong size,Like new,$162.60
+862,677,4/23/2021,Damaged during shipping,Like new,$52.50
+863,536,2/13/2021,Damaged during shipping,Used,$85.72
+864,912,2/18/2022,Defective,New,$341.07
+865,634,5/26/2024,Changed mind,New,$67.02
+866,457,4/24/2023,Wrong size,Damaged,$35.93
+867,670,1/11/2023,Wrong size,Like new,$288.34
+868,402,7/22/2022,Changed mind,Like new,$66.88
+869,788,4/14/2021,Defective,Damaged,$132.35
+870,385,4/11/2023,Wrong size,Like new,$56.08
+871,51,3/30/2022,Wrong size,Like new,$326.74
+872,562,7/18/2020,Damaged during shipping,New,$51.98
+873,670,3/29/2022,Wrong size,Used,$399.35
+874,785,6/26/2021,Changed mind,New,$36.90
+875,336,4/13/2023,Wrong size,New,$78.54
+876,900,2/6/2023,Wrong size,Used,$28.02
+877,980,5/3/2020,Wrong size,Damaged,$155.31
+878,310,10/14/2022,Wrong size,New,$160.42
+879,951,1/8/2025,Changed mind,Used,$378.50
+880,234,2/16/2023,Changed mind,New,$464.40
+881,447,8/12/2021,Defective,Damaged,$382.21
+882,945,2/12/2025,Changed mind,Like new,$373.11
+883,130,5/12/2021,Defective,Damaged,$436.37
+884,328,3/12/2024,Wrong size,Used,$193.45
+885,56,4/9/2024,Wrong size,Damaged,$245.11
+886,561,6/30/2023,Changed mind,Used,$277.12
+887,717,5/7/2020,Damaged during shipping,Damaged,$407.21
+888,538,3/20/2022,Changed mind,New,$167.21
+889,49,5/28/2021,Wrong size,Used,$461.36
+890,855,2/1/2021,Changed mind,New,$441.36
+891,831,10/7/2024,Wrong size,Like new,$281.21
+892,386,7/18/2023,Damaged during shipping,New,$468.58
+893,407,10/30/2023,Changed mind,New,$327.01
+894,679,2/12/2022,Wrong size,Damaged,$84.20
+895,565,8/13/2024,Damaged during shipping,New,$287.13
+896,666,11/26/2020,Wrong size,Like new,$79.50
+897,191,7/25/2024,Changed mind,Like new,$348.63
+898,779,8/28/2024,Wrong size,Used,$214.08
+899,7,12/16/2022,Defective,Like new,$319.96
+900,687,6/20/2023,Wrong size,Damaged,$168.22
+901,160,6/27/2022,Wrong size,Used,$106.29
+902,209,3/8/2022,Changed mind,Damaged,$284.28
+903,841,3/18/2022,Changed mind,Used,$174.86
+904,65,12/24/2020,Damaged during shipping,Damaged,$424.25
+905,687,5/5/2023,Changed mind,Used,$219.61
+906,727,12/15/2024,Wrong size,Like new,$64.47
+907,195,6/14/2023,Wrong size,Damaged,$276.15
+908,901,11/25/2022,Damaged during shipping,New,$443.69
+909,403,11/4/2021,Wrong size,New,$298.76
+910,712,7/13/2020,Defective,New,$133.13
+911,470,1/12/2021,Changed mind,Like new,$28.32
+912,895,1/28/2024,Damaged during shipping,Used,$477.33
+913,87,11/13/2024,Wrong size,New,$94.01
+914,230,1/12/2022,Defective,Used,$452.98
+915,709,5/31/2021,Damaged during shipping,Used,$446.92
+916,588,10/16/2020,Damaged during shipping,New,$42.71
+917,62,7/1/2021,Defective,Like new,$290.03
+918,76,3/14/2025,Damaged during shipping,Damaged,$250.06
+919,936,2/28/2021,Changed mind,New,$32.57
+920,553,5/12/2024,Changed mind,Used,$331.88
+921,49,10/5/2020,Defective,Used,$11.77
+922,236,3/3/2023,Wrong size,Damaged,$52.08
+923,105,10/14/2021,Wrong size,New,$385.89
+924,305,12/23/2021,Damaged during shipping,Like new,$445.24
+925,656,11/9/2024,Changed mind,Like new,$303.83
+926,337,10/17/2023,Damaged during shipping,New,$342.02
+927,894,1/9/2020,Defective,Damaged,$64.39
+928,384,9/23/2023,Damaged during shipping,New,$353.34
+929,211,11/21/2024,Defective,Used,$25.60
+930,765,7/10/2021,Damaged during shipping,Like new,$113.00
+931,80,8/4/2023,Defective,Like new,$81.41
+932,538,5/8/2021,Wrong size,Damaged,$137.16
+933,109,1/19/2020,Changed mind,Damaged,$354.37
+934,699,3/13/2021,Changed mind,Used,$413.00
+935,616,4/9/2023,Wrong size,Damaged,$345.29
+936,565,9/30/2021,Wrong size,Damaged,$140.62
+937,586,3/18/2020,Changed mind,New,$404.97
+938,211,12/30/2024,Damaged during shipping,Used,$21.93
+939,338,2/7/2023,Defective,Like new,$468.96
+940,535,8/25/2022,Wrong size,Used,$24.32
+941,363,3/10/2023,Damaged during shipping,New,$143.28
+942,12,1/10/2022,Wrong size,Used,$36.52
+943,579,1/21/2024,Damaged during shipping,Like new,$346.26
+944,767,4/8/2020,Defective,Damaged,$388.13
+945,738,7/21/2020,Defective,Damaged,$209.80
+946,113,2/15/2024,Defective,New,$498.06
+947,717,2/10/2025,Defective,Used,$220.66
+948,209,10/1/2021,Wrong size,Damaged,$271.33
+949,304,12/16/2020,Wrong size,Like new,$346.92
+950,788,6/28/2023,Changed mind,Damaged,$96.99
+951,683,7/3/2024,Wrong size,Used,$423.72
+952,582,1/30/2020,Wrong size,Used,$329.02
+953,286,11/5/2022,Defective,New,$89.47
+954,463,11/11/2023,Wrong size,Used,$40.69
+955,186,1/25/2025,Damaged during shipping,Damaged,$25.30
+956,506,9/15/2021,Defective,Damaged,$410.64
+957,836,9/18/2022,Damaged during shipping,Used,$136.77
+958,114,6/30/2023,Damaged during shipping,Damaged,$366.68
+959,949,6/27/2024,Damaged during shipping,Like new,$77.48
+960,502,7/11/2020,Defective,Used,$19.92
+961,704,12/18/2021,Wrong size,Used,$191.06
+962,663,11/14/2023,Wrong size,Used,$384.56
+963,191,7/2/2020,Damaged during shipping,New,$200.12
+964,946,5/2/2020,Wrong size,Like new,$471.16
+965,566,2/14/2020,Defective,New,$392.26
+966,695,3/6/2021,Defective,Like new,$487.78
+967,447,6/27/2024,Defective,Used,$493.41
+968,869,8/29/2023,Damaged during shipping,Damaged,$93.50
+969,398,5/23/2024,Changed mind,New,$118.15
+970,458,8/26/2020,Changed mind,Used,$409.21
+971,957,10/19/2023,Damaged during shipping,Used,$449.62
+972,191,7/24/2021,Damaged during shipping,New,$495.33
+973,63,3/1/2022,Wrong size,Used,$337.78
+974,154,1/3/2022,Wrong size,Like new,$268.92
+975,336,8/2/2020,Changed mind,Like new,$499.69
+976,39,8/5/2024,Wrong size,Used,$60.84
+977,414,4/16/2023,Damaged during shipping,New,$78.41
+978,419,10/4/2021,Damaged during shipping,New,$207.83
+979,215,6/14/2020,Defective,New,$23.35
+980,128,10/12/2022,Defective,New,$165.16
+981,447,5/10/2023,Changed mind,Damaged,$294.99
+982,271,8/4/2021,Changed mind,Like new,$319.58
+983,30,9/14/2024,Wrong size,Damaged,$307.34
+984,213,6/24/2021,Changed mind,Used,$409.83
+985,36,10/28/2022,Damaged during shipping,New,$382.32
+986,73,10/12/2021,Defective,Used,$484.20
+987,250,11/12/2024,Changed mind,Damaged,$330.01
+988,430,11/5/2021,Changed mind,Like new,$296.17
+989,504,3/7/2021,Wrong size,Damaged,$306.22
+990,226,6/30/2022,Damaged during shipping,New,$238.72
+991,438,2/12/2021,Damaged during shipping,New,$311.96
+992,119,7/5/2022,Damaged during shipping,New,$29.62
+993,589,12/26/2023,Damaged during shipping,Used,$377.67
+994,95,8/17/2024,Damaged during shipping,Damaged,$10.79
+995,256,11/29/2023,Changed mind,Like new,$157.32
+996,156,9/16/2021,Wrong size,New,$26.43
+997,215,11/25/2021,Changed mind,New,$126.22
+998,278,6/19/2023,Defective,Like new,$448.32
+999,430,12/16/2021,Changed mind,Used,$54.60
+1000,562,1/15/2023,Damaged during shipping,Used,$114.74
