@@ -3,21 +3,6 @@
 
 A comprehensive analysis of Uber ride data (2014–2015) exploring ride trends, peak hours, busiest locations, and active dispatching bases using Python for cleaning, visualization, and EDA.
 
-📂 Project Structure
-Uber-Data-Analysis/
-│
-├── Datasets/                # Raw Uber CSV files
-│   ├── uber-raw-data-2014.csv
-│   ├── uber-raw-data-2015.csv
-│   └── Uber-Jan-Feb-FOIL.csv
-│
-├── Notebooks/               # Jupyter notebooks
-│   └── Uber_Analysis.ipynb
-│
-├── Visualizations/          # Saved plots and maps
-│
-├── requirements.txt         # Python dependencies
-└── README.md
 
 ### 📝 Project Overview
 
