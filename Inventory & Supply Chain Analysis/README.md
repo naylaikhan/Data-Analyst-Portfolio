@@ -230,3 +230,11 @@ SupplyChain-Performance-Analytics/
 │
 └── README.md
 ```
+
+👤 Author
+
+Naila Iram
+
+Operations & Data Analytics Professional
+
+Specializing in KPI Design, Performance Analytics & Business Intelligence
